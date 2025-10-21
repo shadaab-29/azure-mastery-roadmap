@@ -15,5 +15,8 @@ Azure is Microsoft's cloud computing platform offering IaaS, PaaS, and SaaS serv
 - **Availability Zone**: Physically separate zone within a region for HA
 
 ## How to Create a Resource Group (CLI)
-```bash
+
 az group create --name myResourceGroup --location eastus
+
+Industrial Use
+Used to host apps, VMs, databases, and services for enterprises and startups.
