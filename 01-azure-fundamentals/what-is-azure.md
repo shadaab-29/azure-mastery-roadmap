@@ -18,5 +18,5 @@ Azure is Microsoft's cloud computing platform offering IaaS, PaaS, and SaaS serv
 
 az group create --name myResourceGroup --location eastus
 
-Industrial Use
+Industrial Use -
 Used to host apps, VMs, databases, and services for enterprises and startups.
